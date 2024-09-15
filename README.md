@@ -1,7 +1,14 @@
 # OCI-Architect-Pro
+
+OCI Architect Pro 2023 course is discontinued and replaced by OCI Architect Pro 2024.
+I'm leaving this code here for reference, especially Chapter 3 which is similar to Chapter 2 
+in the new 2024 course. Work continues in repository for 2024 course at
+https://github.com/fedotoves/Oci-Architect-Pro-2024
+
 This is terraform code that tries to implement manual steps
 for lectures given in OCI architect course for Exam 1Z0-997-23:
 Oracle Cloud Infrastructure 2023 Architect Professional wherever possible.
+
 
 Course is located here: https://mylearn.oracle.com/ou/course/oracle-cloud-infrastructure-architect-professional/122659/
 My process is to follow the course step by step, adding resources and instructions as necessary.
