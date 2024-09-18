@@ -2,7 +2,8 @@
 
 OCI Architect Pro 2023 course is discontinued and replaced by OCI Architect Pro 2024.
 I'm leaving this code here for reference, especially Chapter 3 which is similar to Chapter 2 
-in the new 2024 course. Work continues in repository for 2024 course at
+in the new 2024 course. Chapter 3 in 2024 version contains chapter 2 and 4 from 2023. I will continue from "Introduction to OKE" lecture from chapter 3.
+Work continues in repository for 2024 course at
 https://github.com/fedotoves/Oci-Architect-Pro-2024
 
 This is terraform code that tries to implement manual steps
